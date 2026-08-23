@@ -155,7 +155,7 @@ df_main.at[0, "Profit_Difference"] = round(profit_difference, 2)
 
 # Save it as a normal CSV (Overwriting your previous file)
 df_main.to_csv(
-    r"C:\Users\saumy\OneDrive\Desktop\job courses\New folder\demand forecasting\data\4.data_with_segments.csv",
+    r"C:\Users\saumy\OneDrive\Desktop\job courses\New folder\demand forecasting\data\5.data_with_segments.csv",
     index=False
 )
 
@@ -171,4 +171,5 @@ cols_to_show = [
 ]
 
 print(df_main[cols_to_show].head(5))
+print("\nDone!")
 print("\nDone!")
