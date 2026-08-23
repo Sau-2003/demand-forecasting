@@ -2,7 +2,7 @@ import pandas as pd
 
 # Read the cleaned CSV
 df = pd.read_csv(
-    r"C:\Users\saumy\OneDrive\Desktop\job courses\New folder\demand forecasting\data\data_with_revenue.csv",
+    r"C:\Users\saumy\OneDrive\Desktop\job courses\New folder\demand forecasting\data\1.data_with_revenue.csv",
     encoding="cp1252"
 )
 
@@ -25,17 +25,11 @@ summary["Average_Unit_Price"] = (
     summary["Total_Quantity"]
 )
 
-# Round numbers
-summary["Total_Revenue"] = summary["Total_Revenue"].round(2)
-summary["Average_Unit_Price"] = summary["Average_Unit_Price"].round(2)
-
 # Save
 summary.to_csv(
-    r"C:\Users\saumy\OneDrive\Desktop\job courses\New folder\demand forecasting\data\customer_stock_summary.csv",
+    r"C:\Users\saumy\OneDrive\Desktop\job courses\New folder\demand forecasting\data\3.customer_stock_summary.csv",
     index=False
 )
 
-# Display first 5 rows
 print(summary.head(5))
-
 print("Done! Summary table saved.")
