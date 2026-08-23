@@ -32,13 +32,5 @@ customer_segmentation.to_csv(
 )
 
 # 5. Print the results
-print("--- Customer Count per Segment ---")
-print(customer_segmentation["Customer_Size"].value_counts())
-
-print("\n--- Total Revenue per Segment ---")
-revenue_sum = customer_segmentation.groupby("Customer_Size", observed=True)["Total_Revenue"].sum().round(2)
-print(revenue_sum)
-
 print(customer_segmentation.head(5))
-
 print("\nDone! Clean boundaries applied.")

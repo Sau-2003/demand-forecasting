@@ -823,11 +823,11 @@ CustomerID,Total_Revenue,Customer_Size
 13434.0,534.24,Small
 13435.0,3794.49,Medium
 13436.0,196.89,Small
-13437.0,3408.06,Medium
+13437.0,3408.06,Small
 13439.0,283.71,Small
 13441.0,296.64,Small
 13447.0,1104.23,Small
-13448.0,3465.67,Medium
+13448.0,3465.67,Small
 13449.0,291.88,Small
 13450.0,2043.72,Small
 13451.0,2916.45,Small
@@ -887,7 +887,7 @@ CustomerID,Total_Revenue,Customer_Size
 13517.0,2109.07,Small
 13518.0,659.44,Small
 13519.0,110.8,Small
-13520.0,3487.75,Medium
+13520.0,3487.75,Small
 13521.0,1093.65,Small
 13522.0,125.8,Small
 13523.0,3755.38,Medium
@@ -899,7 +899,7 @@ CustomerID,Total_Revenue,Customer_Size
 13532.0,210.31,Small
 13533.0,270.79,Small
 13534.0,5613.08,Medium
-13536.0,3448.29,Medium
+13536.0,3448.29,Small
 13538.0,1280.85,Small
 13539.0,605.84,Small
 13544.0,291.41,Small
@@ -1225,7 +1225,7 @@ CustomerID,Total_Revenue,Customer_Size
 13990.0,311.3,Small
 13991.0,850.63,Small
 13992.0,76.8,Small
-13993.0,3409.66,Medium
+13993.0,3409.66,Small
 13994.0,2313.14,Small
 13995.0,1383.49,Small
 13999.0,3865.26,Medium
@@ -1391,7 +1391,7 @@ CustomerID,Total_Revenue,Customer_Size
 14218.0,169.48,Small
 14219.0,89.94,Small
 14220.0,632.4,Small
-14221.0,3427.85,Medium
+14221.0,3427.85,Small
 14222.0,683.17,Small
 14223.0,975.23,Small
 14224.0,1050.12,Small
@@ -1511,7 +1511,7 @@ CustomerID,Total_Revenue,Customer_Size
 14389.0,999.72,Small
 14390.0,4592.47,Medium
 14393.0,67.95,Small
-14395.0,3471.91,Medium
+14395.0,3471.91,Small
 14396.0,487.99,Small
 14397.0,2556.68,Small
 14400.0,559.7,Small
@@ -1891,7 +1891,7 @@ CustomerID,Total_Revenue,Customer_Size
 14903.0,2744.48,Small
 14904.0,1025.44,Small
 14905.0,599.9,Small
-14907.0,3478.85,Medium
+14907.0,3478.85,Small
 14908.0,277.8,Small
 14910.0,389.86,Small
 14911.0,132572.62,Large
@@ -2039,7 +2039,7 @@ CustomerID,Total_Revenue,Customer_Size
 15109.0,463.75,Small
 15110.0,970.25,Small
 15111.0,1567.48,Small
-15113.0,3439.41,Medium
+15113.0,3439.41,Small
 15114.0,2760.56,Small
 15115.0,340.11,Small
 15116.0,1352.75,Small
@@ -2054,7 +2054,7 @@ CustomerID,Total_Revenue,Customer_Size
 15125.0,11117.05,Medium
 15127.0,406.53,Small
 15128.0,1419.54,Small
-15129.0,3447.4,Medium
+15129.0,3447.4,Small
 15130.0,330.11,Small
 15132.0,977.93,Small
 15133.0,982.42,Small
@@ -2264,7 +2264,7 @@ CustomerID,Total_Revenue,Customer_Size
 15406.0,426.61,Small
 15407.0,1056.44,Small
 15408.0,267.18,Small
-15410.0,3450.84,Medium
+15410.0,3450.84,Small
 15411.0,1346.38,Small
 15412.0,190.53,Small
 15414.0,774.9,Small
@@ -2333,7 +2333,7 @@ CustomerID,Total_Revenue,Customer_Size
 15502.0,5541.46,Medium
 15503.0,147.09,Small
 15504.0,52.83,Small
-15505.0,3497.14,Medium
+15505.0,3497.14,Small
 15506.0,979.26,Small
 15507.0,492.36,Small
 15508.0,1000.27,Small
@@ -2393,7 +2393,7 @@ CustomerID,Total_Revenue,Customer_Size
 15577.0,258.88,Small
 15578.0,127.1,Small
 15579.0,348.6,Small
-15581.0,3429.97,Medium
+15581.0,3429.97,Small
 15582.0,682.91,Small
 15584.0,722.61,Small
 15585.0,455.3,Small
@@ -2678,13 +2678,13 @@ CustomerID,Total_Revenue,Customer_Size
 15970.0,314.1,Small
 15971.0,4199.85,Medium
 15973.0,99.77,Small
-15974.0,3429.55,Medium
+15974.0,3429.55,Small
 15975.0,371.01,Small
 15976.0,430.94,Small
 15977.0,1054.73,Small
 15978.0,1098.78,Small
 15980.0,2398.86,Small
-15981.0,3408.48,Medium
+15981.0,3408.48,Small
 15983.0,1475.02,Small
 15984.0,2816.97,Small
 15985.0,1037.42,Small
@@ -2713,7 +2713,7 @@ CustomerID,Total_Revenue,Customer_Size
 16016.0,1483.31,Small
 16017.0,211.88,Small
 16018.0,408.9,Small
-16019.0,3450.24,Medium
+16019.0,3450.24,Small
 16020.0,851.01,Small
 16022.0,628.28,Small
 16023.0,719.81,Small
@@ -2966,7 +2966,7 @@ CustomerID,Total_Revenue,Customer_Size
 16357.0,658.88,Small
 16358.0,2024.95,Small
 16359.0,1460.37,Small
-16360.0,3411.69,Medium
+16360.0,3411.69,Small
 16361.0,896.66,Small
 16362.0,652.07,Small
 16363.0,109.36,Small
@@ -3042,7 +3042,7 @@ CustomerID,Total_Revenue,Customer_Size
 16455.0,1841.18,Small
 16456.0,2158.37,Small
 16457.0,208.36,Small
-16458.0,3482.74,Medium
+16458.0,3482.74,Small
 16460.0,814.72,Small
 16461.0,151.42,Small
 16462.0,102.0,Small
@@ -3597,7 +3597,7 @@ CustomerID,Total_Revenue,Customer_Size
 17227.0,939.32,Small
 17228.0,1906.09,Small
 17229.0,318.76,Small
-17230.0,3466.67,Medium
+17230.0,3466.67,Small
 17231.0,3127.82,Small
 17232.0,421.52,Small
 17233.0,190.88,Small
@@ -3849,7 +3849,7 @@ CustomerID,Total_Revenue,Customer_Size
 17572.0,226.75,Small
 17573.0,362.9,Small
 17574.0,185.65,Small
-17576.0,3457.78,Medium
+17576.0,3457.78,Small
 17578.0,124.74,Small
 17579.0,440.2,Small
 17580.0,215.72,Small
@@ -3918,7 +3918,7 @@ CustomerID,Total_Revenue,Customer_Size
 17666.0,728.16,Small
 17667.0,2055.51,Small
 17668.0,347.75,Small
-17669.0,3406.72,Medium
+17669.0,3406.72,Small
 17670.0,205.7,Small
 17671.0,1284.08,Small
 17672.0,3106.62,Small
@@ -3986,7 +3986,7 @@ CustomerID,Total_Revenue,Customer_Size
 17752.0,80.64,Small
 17754.0,1739.92,Small
 17757.0,5585.49,Medium
-17758.0,3456.7,Medium
+17758.0,3456.7,Small
 17759.0,834.99,Small
 17760.0,287.59,Small
 17761.0,712.78,Small
