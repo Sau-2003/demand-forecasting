@@ -3,7 +3,6 @@ import pandas as pd
 # Read the cleaned CSV
 df = pd.read_csv(
     r"C:\Users\saumy\OneDrive\Desktop\job courses\New folder\demand forecasting\data\1.data_with_revenue.csv",
-    encoding="cp1252"
 )
 
 # SUMIFS equivalent
@@ -27,7 +26,7 @@ summary["Average_Unit_Price"] = (
 
 # Save
 summary.to_csv(
-    r"C:\Users\saumy\OneDrive\Desktop\job courses\New folder\demand forecasting\data\3.customer_stock_summary.csv",
+    r"C:\Users\saumy\OneDrive\Desktop\job courses\New folder\demand forecasting\data\2.customer_stock_summary.csv",
     index=False
 )
 

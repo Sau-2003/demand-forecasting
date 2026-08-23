@@ -29,8 +29,13 @@ customer_segmentation["Customer_Size"] = pd.cut(
 )
 
 # 4. Save the table
-output_path = r"C:\Users\saumy\OneDrive\Desktop\job courses\New folder\demand forecasting\data\2.customer_segmentation.csv"
+output_path = r"C:\Users\saumy\OneDrive\Desktop\job courses\New folder\demand forecasting\data\3.customer_segmentation.csv"
 
+customer_segmentation.to_csv(
+    output_path,
+    index=False,
+    encoding="utf-8-sig"
+)
 
 # 5. Print the results
 print(customer_segmentation.head(5))

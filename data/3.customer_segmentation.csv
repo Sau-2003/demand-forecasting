@@ -1,4 +1,4 @@
-CustomerID,Total_Revenue,Customer_Size
+﻿CustomerID,Total_Revenue,Customer_Size
 12346.0,0.0,Small
 12347.0,4310.0,Medium
 12348.0,1797.24,Small
@@ -4209,7 +4209,7 @@ CustomerID,Total_Revenue,Customer_Size
 18068.0,101.7,Small
 18069.0,2021.82,Small
 18071.0,453.0,Small
-18072.0,-0.0,Small
+18072.0,0.0,Small
 18073.0,3864.44,Medium
 18074.0,489.6,Small
 18075.0,2538.72,Small
